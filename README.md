@@ -1,2 +1,2 @@
 # Task List
-Just a simmple task list stored to local storage
+Just a simple task list stored to local storage
